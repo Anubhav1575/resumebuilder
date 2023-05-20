@@ -1,0 +1,118 @@
+/* #cv{
+    display: none;
+} */
+.backgroundd{
+    background:url(img/white.jpg);
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background-size: cover;
+
+    
+}
+h1{
+    color: #0f0f0f;
+}
+.myimg{
+    border: 1px solid blue;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+.background{
+    /* @media print {
+        #header{display:none;}
+        #adwrapper{display:none;}
+        td {
+          border-bottom: solid; 
+          border-right: solid; 
+          background-color:red;
+        }
+      } */
+    background-color: aqua;
+}
+#resume-temp{
+    display: none;
+}
+.rimg
+{
+    margin-left: -270px;
+    margin-top: 20px;
+    height: 6%;
+    width: 5%;
+}
+.word{
+    margin-left: -200px;
+    margin-top: -55px;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#preloader{
+    background: #0f0f0f url(img/pre.gif) no-repeat center center;
+    background-size:25% ;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+
+}
+.head{
+    color: rgb(0, 0, 0);
+    white-space: nowrap;
+    /* margin-left: 650px; 
+    margin-top: 1200px;
+    padding-top: 100px; */
+    /* top: 50%; */
+    margin-bottom: 10px;
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    font-size: 3em;
+    font-family: sans-serif;
+    letter-spacing: 0.1em;
+    transition: 0.3s;
+    text-shadow: 1px 1px 0 grey, 1px 2px 0 grey, 1px 3px 0 grey, 1px 4px 0 grey,
+      1px 5px 0 grey, 1px 6px 0 grey, 1px 7px 0 grey, 1px 8px 0 grey,
+      5px 13px 15px black;
+}
+.perr{
+    color: rgb(4, 71, 126);
+    white-space: nowrap;
+    /* margin-left: 650px; 
+    margin-top: 1200px;
+    padding-top: 100px; */
+    /* top: 50%; */
+    margin-bottom: 10px;
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    font-size: 30px;
+    font-weight:300;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 0.1em;
+    transition: 0.3s;
+    text-shadow: 1px 1px 0 grey, 1px 2px 0 grey, 1px 3px 0 grey, 
+      1px 5px 0 grey, 
+      5px 13px 15px black;
+}
+.proo{
+    /* padding-top: 20px; */
+    color: rgb(4, 71, 126);
+    white-space: nowrap;
+    /* margin-left: 650px; 
+    margin-top: 1200px;
+    padding-top: 100px; */
+    /* top: 50%; */
+    margin-bottom: 10px;
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    font-size: 30px;
+    font-weight:300;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 0.1em;
+    transition: 0.3s;
+    text-shadow: 1px 1px 0 grey, 1px 2px 0 grey, 1px 3px 0 grey, 
+      1px 5px 0 grey, 
+      5px 13px 15px black;
+
+}
